@@ -1,0 +1,12 @@
+This Is Your Data:
+name: Hassan
+  age: 21
+  skills: ["HTML", "CSS", "JavaScript"]
+  isDeveloper": True
+
+I ,ill Learn This Topics At This Year:
+Node.js
+Express.js
+RestApi
+
+2025 Remember This !
